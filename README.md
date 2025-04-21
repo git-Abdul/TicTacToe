@@ -1,2 +1,2 @@
 # TicTacToe
-Simple Tic-Tac-Toe game made in Python and Java
+<img src="https://i.postimg.cc/65VmNMgx/thumbnail.png"></img>
